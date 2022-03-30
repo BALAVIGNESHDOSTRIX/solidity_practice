@@ -11,6 +11,4 @@ contract ArrayEx{
     function show_basket() public view returns(string[] memory){
         return fruit_basket;
     }
-
-
 }
